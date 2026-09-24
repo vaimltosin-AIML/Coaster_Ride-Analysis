@@ -46,3 +46,4 @@ Through systematic analysis of the data, several significant patterns emerged:
    Whether you're a roller coaster enthusiast, an engineer interested in design trends, or a data science professional seeking real-world applications, this analysis provides valuable perspective on how the world of roller coasters has evolved and where the industry is heading.
 # Coaster_Ride-Analysis
 # Coaster_Ride-Analysis
+# Coaster_Ride-Analysis
