@@ -6,9 +6,13 @@ The analysis draws from an extensive database of roller coasters to uncover mean
 🎯 Purpose & Motivation
 
 Roller coasters represent a fascinating intersection of engineering, physics, and entertainment. This project seeks to answer critical questions about coaster design:
+
 • How has roller coaster technology evolved over time? Are modern coasters faster, taller, and more intense than their predecessors?
+
 • What are the relationships between key performance metrics? How do speed, height, inversions, and G-forces correlate with one another?
+
 • Do geographic locations influence coaster specifications? Are certain regions known for more extreme or conservative designs?
+
 • What are the current trends in coaster engineering? What features are becoming more popular in recent designs?
 
 
@@ -34,17 +38,25 @@ Analyzing the gravitational forces experienced by riders and how these correlate
 Through systematic analysis of the data, several significant patterns emerged:
 
 1. Technological Progression Modern roller coasters demonstrate clear advancement in engineering capabilities. Coasters introduced in recent decades exhibit higher average speeds and more ambitious designs compared to historical rides, reflecting improvements in materials science and construction technology.
+   
 2. Speed-Height Relationship A notable positive correlation exists between maximum height and maximum speed. Taller coasters tend to achieve higher velocities, suggesting that height is a critical factor in coaster design strategy and performance.
+  
 3. Geographic Variation Roller coaster specifications vary significantly by location, indicating regional preferences in ride design. Some geographic areas are known for pushing boundaries with extreme specifications, while others maintain more moderate designs.
+
 4. Feature Evolution Inversions have become an increasingly popular design element in modern coasters, reflecting changing safety standards and rider expectations. What was once a rare novelty is now common in contemporary designs.
+ 
 5. Design Diversity Despite common trends, significant diversity exists in how different manufacturers and parks approach roller coaster design, resulting in varied solutions to achieve thrilling experiences.
 
 🎢 What Makes This Analysis Valuable
 
 • Data-Driven Insights: Rather than relying on anecdotal observations, this project grounds conclusions in quantitative analysis of real-world roller coaster data.
+
 • Comprehensive Scope: The analysis examines multiple dimensions simultaneously, revealing complex relationships that wouldn't be apparent from single-variable studies.
+
 • Visual Understanding: Through charts, graphs, and comparative visualizations, patterns that might be hidden in raw numbers become immediately apparent.
+
 • Industry Relevance: The findings are valuable to amusement park operators, engineers, and enthusiasts seeking to understand coaster design trends and capabilities.
+
 • Historical Perspective: By tracking changes over time, the project provides a historical record of how roller coaster technology has evolved.
 
 
@@ -56,9 +68,13 @@ The approach combines exploratory investigation discovering what the data reveal
 🌍 Impact & Applications
 
 Understanding roller coaster design trends has practical applications across the industry:
+
 • Park Development: Theme park planners can benchmark their coasters against industry standards
+
 • Engineering Decisions: Designers can identify optimal combinations of specifications based on proven relationships   
+
 • Market Analysis: The entertainment industry can track how rider preferences and safety standards evolve   
+
 • Educational Value: The analysis provides real-world data science applications relevant to students and professionals
 
 
