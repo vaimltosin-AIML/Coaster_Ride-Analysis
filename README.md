@@ -1,3 +1,5 @@
+# Coaster_Ride-Analysis
+
 🎢 Project Overview
 
 Coaster Ride is a comprehensive data analysis project that explores the world of roller coasters examining their characteristics, performance metrics, technological evolution, and geographic distribution. This project investigates one of the most thrilling aspects of amusement parks: how roller coaster engineering has advanced and what factors influence their design specifications.
