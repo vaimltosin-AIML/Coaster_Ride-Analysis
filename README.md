@@ -45,3 +45,4 @@ Through systematic analysis of the data, several significant patterns emerged:
    This project demonstrates how data analysis can transform raw information into meaningful insights about real-world phenomena. By examining something as exciting as roller coasters, it illustrates that rigorous analysis and creative engineering merge at the intersection of science, technology, and entertainment.
    Whether you're a roller coaster enthusiast, an engineer interested in design trends, or a data science professional seeking real-world applications, this analysis provides valuable perspective on how the world of roller coasters has evolved and where the industry is heading.
 # Coaster_Ride-Analysis
+# Coaster_Ride-Analysis
