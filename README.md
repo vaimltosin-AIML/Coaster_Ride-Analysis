@@ -1,11 +1,11 @@
 # Coaster_Ride-Analysis
 
-🎢 Project Overview
+# 🎢 Project Overview
 
 Coaster Ride is a comprehensive data analysis project that explores the world of roller coasters examining their characteristics, performance metrics, technological evolution, and geographic distribution. This project investigates one of the most thrilling aspects of amusement parks: how roller coaster engineering has advanced and what factors influence their design specifications.
 The analysis draws from an extensive database of roller coasters to uncover meaningful patterns and trends in the industry, providing insights into how these attractions have evolved over decades and how they vary across different regions.
 
-🎯 Purpose & Motivation
+# 🎯 Purpose & Motivation
 
 Roller coasters represent a fascinating intersection of engineering, physics, and entertainment. This project seeks to answer critical questions about coaster design:
 
@@ -18,7 +18,7 @@ Roller coasters represent a fascinating intersection of engineering, physics, an
 • What are the current trends in coaster engineering? What features are becoming more popular in recent designs?
 
 
-📊 Research Focus
+# 📊 Research Focus
 
 The analysis concentrates on understanding four primary dimensions of roller coaster design:
 
@@ -35,7 +35,7 @@ Physical Forces (G-Forces)
 Analyzing the gravitational forces experienced by riders and how these correlate with other design parameters, providing insight into both engineering capabilities and safety considerations.
 
 
-🔍 Key Discoveries
+# 🔍 Key Discoveries
 
 Through systematic analysis of the data, several significant patterns emerged:
 
@@ -49,7 +49,7 @@ Through systematic analysis of the data, several significant patterns emerged:
  
 5. Design Diversity Despite common trends, significant diversity exists in how different manufacturers and parks approach roller coaster design, resulting in varied solutions to achieve thrilling experiences.
 
-🎢 What Makes This Analysis Valuable
+# 🎢 What Makes This Analysis Valuable
 
 • Data-Driven Insights: Rather than relying on anecdotal observations, this project grounds conclusions in quantitative analysis of real-world roller coaster data.
 
@@ -62,12 +62,12 @@ Through systematic analysis of the data, several significant patterns emerged:
 • Historical Perspective: By tracking changes over time, the project provides a historical record of how roller coaster technology has evolved.
 
 
-📈 Methodology
+# 📈 Methodology
 
 The project employs rigorous data analysis practices, beginning with comprehensive data cleaning to ensure accuracy. All data inconsistencies, missing values, and duplicates are systematically identified and addressed. Statistical analysis reveals relationships and patterns, while visual representations make these insights accessible and meaningful.
 The approach combines exploratory investigation discovering what the data reveals with targeted analysis of specific hypotheses about coaster design relationships and trends.
 
-🌍 Impact & Applications
+# 🌍 Impact & Applications
 
 Understanding roller coaster design trends has practical applications across the industry:
 
@@ -80,7 +80,7 @@ Understanding roller coaster design trends has practical applications across the
 • Educational Value: The analysis provides real-world data science applications relevant to students and professionals
 
 
-🤝 Project Significance
+# 🤝 Project Significance
 
 This project demonstrates how data analysis can transform raw information into meaningful insights about real-world phenomena. By examining something as exciting as roller coasters, it illustrates that rigorous analysis and creative engineering merge at the intersection of science, technology, and entertainment.
 Whether you're a roller coaster enthusiast, an engineer interested in design trends, or a data science professional seeking real-world applications, this analysis provides valuable perspective on how the world of roller coasters has evolved and where the industry is heading.
